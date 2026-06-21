@@ -67,7 +67,7 @@ cd employee_system
 make
 
 # Or compile manually
-gcc -m32 -no-pie -fno-stack-protector -z execstack -g -o employee_system main.c
+gcc -m32 -o crm_system crm.c
 
 # 4. Run the system
 ./employee_system
