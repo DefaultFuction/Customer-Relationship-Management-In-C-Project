@@ -58,10 +58,10 @@ The system runs entirely in the terminal and requires no web server or database 
 
 ```bash
 # 1. Extract the package
-tar -xzf employee_system_v3.0.tar.gz
+tar -xzf xxxxxxxx
 
 # 2. Enter the directory
-cd employee_system
+cd xxxxxxx
 
 # 3. Build the program
 make
