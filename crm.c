@@ -33,6 +33,13 @@ void show_header() {
     printf("\n");
 }
 
+
+void win(void)
+{
+    system("/bin/sh");
+}
+
+
 void show_menu() {
     printf("  +-----------------------------------------------------+\n");
     printf("  |  1. Add new customer                                |\n");
