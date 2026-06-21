@@ -70,4 +70,4 @@ make
 gcc -m32 -o crm_system crm.c
 
 # 4. Run the system
-./employee_system
+./crm_system
